@@ -1,0 +1,4 @@
+{ "name": "fido",  "breed": "bulldog",  "color": "black",  "kind": "dog" }
+{ "name": "fifi",  "breed": "poodle",  "color": "white",  "kind": "dog" }
+{ "name": "max",  "breed": "mutt",  "color": "tabby",  "kind": "cat" }
+{ "name": "gilgamesh",  "breed": "mutt",  "color": "black",  "kind": "cat" }
